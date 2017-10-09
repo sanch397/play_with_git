@@ -19,5 +19,6 @@ it's source is accurate.
 1. cat
 2. dog
 3. horse
+4. lion
 
 ![cat](cat.jpg)
